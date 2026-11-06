@@ -1,6 +1,6 @@
-# Island Paws Pantry
+# Lucky Paws Foundation
 
-Website for a community cat food pantry concept in St. Thomas, U.S. Virgin Islands. Includes the existing site's home and founder pages, three uploaded photographs, and two videos.
+Website for Lucky Paws Foundation, a registered 501(c)(3) nonprofit supporting community cats and caretakers in St. Thomas, U.S. Virgin Islands. Includes the existing site's home and founder pages, three uploaded photographs, and two videos.
 
 ## Run locally
 
@@ -22,6 +22,6 @@ Open http://localhost:8000 in your browser.
 
 Publish the `dist` directory with any static website host. Relative page and media links also support hosting under a repository subdirectory.
 
-Donation, contact, social links, and the founder story remain the placeholders shown on the existing site. Replace them with verified details when ready. No payments are processed and no visitor submissions are collected.
+Donation and colony-care contact links direct visitors to HSSTT’s TNVR page: https://humanesocietystthomas.org/programs/tnvr. Payments are handled through HSSTT, not this site. Social links and the founder story await supplied details. No visitor submissions are collected.
 
 Existing hosted website: https://island-paws-pantry.soaringskink.chatgpt.site
